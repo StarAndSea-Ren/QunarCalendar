@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Dev\\WorkSpace\\CalendarTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Dev\\WorkSpace\\CalendarTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dev\\WorkSpace\\QunarCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Dev\\WorkSpace\\QunarCalendar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
